@@ -20,4 +20,3 @@ def merge_two_pdfs(pdf_1, pdf_2):
     merger.write("combined.pdf")
 
 
-merge_two_pdfs("first.pdf", "second.pdf")
